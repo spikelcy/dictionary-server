@@ -1,0 +1,2 @@
+dog;an animal
+cat;another animal
